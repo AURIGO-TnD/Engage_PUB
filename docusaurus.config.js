@@ -1,6 +1,6 @@
 module.exports = {
-  title: 'Masterworks Online Help',
-  tagline: 'Masterworks Online Help',
+  title: 'Aurigo Engage',
+  tagline: 'Aurigo Engage',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/Modules/MWWHELP/',
   onBrokenLinks: 'throw',
