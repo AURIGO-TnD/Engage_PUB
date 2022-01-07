@@ -2,7 +2,7 @@ module.exports = {
   title: 'Aurigo Engage',
   tagline: 'Aurigo Engage',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/Modules/MWWHELP/',
+  baseUrl: '/help',
   onBrokenLinks: 'throw',
   favicon: 'img/Logo.png',
   organizationName: 'your-org', // Usually your GitHub org/user name.
