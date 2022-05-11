@@ -131,7 +131,7 @@ header h1 span.ph {
   font-size: 14px;
   margin-top: 0;
   margin-bottom: 0;
-  text-align: justify;
+  text-align: left;
 }
 
 .container div {
@@ -191,12 +191,12 @@ ol ol ol ol {
 table.table thead.thead tr th {
   background: #aec9d6; 
   font-weight: bold; 
-  padding: 4px;
-  text-align: center;
+  padding: 12px;
+  text-align: left;
 }
 
 table.table caption {
-  text-align: justify;
+  text-align: left;
 }
 
 .fig.fignone {
@@ -208,13 +208,13 @@ ul ul ul ul {
 }
 
 table.table td {
-  text-align: justify;
+  text-align: left;
 }
 
 div.note.note_note, 
 div.note.note_trouble {
   font-size: 14px;
-  text-align: justified;
+  text-align: left;
   background-color: #f2f2f2 !important;
   color: #4d4d4d;
   border-radius: 0;
@@ -312,8 +312,8 @@ table.simpletable.choicetable{
 table.simpletable.choicetable tr th[scope="col"]{
   background: #aec9d6;
   font-weight: bold;
-  padding: 4px;
-  text-align: center !important;
+  padding: 12px;
+  text-align: left !important;
 }
 
 table.simpletable.choicetable colgroup>col[style]:first-child{
