@@ -12,7 +12,7 @@ module.exports = {
 //      apiKey: 'YOUR_API_KEY',
 //      indexName: 'YOUR_INDEX_NAME',
 //    },
-    colorMode: {
+//    colorMode: {
       // "light" | "dark"
       defaultMode: 'light',
 
