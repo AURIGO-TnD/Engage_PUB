@@ -12,36 +12,36 @@ module.exports = {
 //      apiKey: 'YOUR_API_KEY',
 //      indexName: 'YOUR_INDEX_NAME',
 //    },
-//    colorMode: {
+    colorMode: {
       // "light" | "dark"
-      //defaultMode: 'light',
+      defaultMode: 'light',
 
       // Hides the switch in the navbar
       // Useful if you want to support a single color mode
-      //disableSwitch: true,
+      disableSwitch: true,
 
       // Should we use the prefers-color-scheme media-query,
       // using user system preferences, instead of the hardcoded defaultMode
-      //respectPrefersColorScheme: false,
+      respectPrefersColorScheme: false,
 
       // Dark/light switch icon options
-      //switchConfig: {
+      switchConfig: {
         // Icon for the switch while in dark mode
-        //darkIcon: '🌙',
+        darkIcon: '🌙',
 
         // CSS to apply to dark icon,
         // React inline style object
         // see https://reactjs.org/docs/dom-elements.html#style
-        //darkIconStyle: {
-          //marginLeft: '2px',
+        darkIconStyle: {
+          marginLeft: '2px',
         },
 
         // Unicode icons such as '\u2600' will work
         // Unicode with 5 chars require brackets: '\u{1F602}'
-       // lightIcon: '\u{1F602}',
+        lightIcon: '\u{1F602}',
 
-        //lightIconStyle: {
-          //marginLeft: '1px',
+        lightIconStyle: {
+          marginLeft: '1px',
         },
       },
     },
