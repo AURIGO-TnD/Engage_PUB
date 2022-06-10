@@ -97,7 +97,7 @@ font-size: 21px !important;
 .navbar__title {
 font-size: 12px;
 	color: #525d6d;
-	white-space: break;
+	white-space: break-spaces !important;
 	word-wrap: break-word;
 	width: 100px;
 }
@@ -105,7 +105,7 @@ font-size: 12px;
 
 overflow: hidden;
 text-overflow: ellipsis;
-white-space: break;
+white-space: break-spaces !important;
 }
 }
 
