@@ -95,7 +95,7 @@ font-size: 21px !important;
 }
 @media only screen and (min-width: 320px) and (max-width: 767px) { 
 .navbar__title {
-font-size: 12px;
+font-size: 12px !important;
 	color: #525d6d;
 	white-space: break-spaces !important;
 	word-wrap: break-word;
