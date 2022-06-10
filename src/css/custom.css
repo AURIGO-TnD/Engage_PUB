@@ -93,6 +93,12 @@ body {
 font-size: 21px !important;
 	color: #525d6d;
 }
+@media screen and (min-device-width: 320px) and (max-device-width: 767px) { 
+.navbar__title {
+font-size: 12px !important;
+	color: #525d6d;
+}
+}
 
 table.table ol > li {
 list-style-type: numeric;
