@@ -118,6 +118,12 @@ display: none !important;
 .aa-DetachedSearchButton {
 border: none !important;
 }
+.clean-btn {
+    background: none !important;
+}
+.aa-DetachedCancelButton {
+display: none !important;
+}
 }
 
 table.table ol > li {
