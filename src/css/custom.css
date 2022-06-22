@@ -118,9 +118,6 @@ display: none !important;
 .aa-DetachedSearchButton {
 border: none !important;
 }
-.clean-btn {
-    background: none !important;
-}
 .aa-DetachedCancelButton {
 display: none !important;
 }
@@ -362,4 +359,7 @@ table.simpletable.choicetable colgroup>col[style]:last-child{
 /* Figure */
 .fig > img.image {
   border: 1px solid #2d9ed0;
+}
+.clean-btn {
+    background: none !important;
 }
