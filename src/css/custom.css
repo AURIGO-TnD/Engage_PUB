@@ -118,8 +118,8 @@ display: none !important;
 .aa-DetachedSearchButton {
 border: none !important;
 }
-.aa-DetachedCancelButton {
-display: none !important;
+.aa-Form {
+border-radius: 8px !important;
 }
 }
 
