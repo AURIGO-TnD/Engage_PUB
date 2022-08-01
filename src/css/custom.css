@@ -363,3 +363,7 @@ table.simpletable.choicetable colgroup>col[style]:last-child{
 .clean-btn {
     background: none !important;
 }
+
+.hash-link{
+display: none !important;
+}
